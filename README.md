@@ -17,13 +17,13 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/octicons/mark-github.svg?size=128&color=ffffff">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-cPlusPlus" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Lucas-Linux" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Lucas-Windows" height="30" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Lucas-Android" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://icongr.am/octicons/mark-github.svg?size=128&color=ffffff">
 </div>
   
   ##
