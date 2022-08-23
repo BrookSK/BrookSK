@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas Vacari 👋
 
-- 🌱 I am currently learning about Systems Development;
+- 🌱 Currently I am a Systems Development technician;
 - ⚡ Curiosity: focus a lot on the back-end. 
 - 🎒 Main Tools: Visual Studio Code, Apache NetBeans, Android Studio, MySQL and GitHub;
 - 🙋‍♂️ Social Networks: Instagram and YouTube;
