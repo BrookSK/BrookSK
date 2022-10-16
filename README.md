@@ -20,6 +20,9 @@
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-cPlusPlus" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Lucas-csharp" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Lucas-php" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=125&color=currentColor">
+  <img align="center" alt="Lucas-wordpress" height="30" width="40" src="https://icongr.am/devicon/wordpress-original.svg?size=125&color=currentColor">
   <img align="center" alt="Lucas-Linux" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
   <img align="center" alt="Lucas-Windows" height="30" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor">
   <img align="center" alt="Lucas-Android" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
