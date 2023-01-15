@@ -3,7 +3,7 @@
 - 🌱 Currently I am a Systems Development technician;
 - ⚡ Curiosity: focus a lot on the back-end. 
 - 🎒 Main Tools: Visual Studio Code, Apache NetBeans, Android Studio, MySQL and GitHub;
-- 🙋‍♂️ Social Networks: Instagram and YouTube;
+- 🙋‍♂️ Social Networks: [Instagram](https://www.instagram.com/lucas_vacarii/) and [Linkedin](https://www.linkedin.com/in/lucas-vacari-80139a228/);
 
 <!--Parte dos quadros-->
 <div>
