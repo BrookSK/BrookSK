@@ -8,8 +8,8 @@
 <!--Parte dos quadros-->
 <div>
   <a href="https://github.com/BrookSK">
-  <img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrookSK&show_icons=true&theme=dark&count_private=true"/>
-  <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api?username=BrookSK&show_icons=true&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrookSK&show_icons=true&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrookSK&show_icons=true&theme=dark&count_private=true"/>
 </div>
   
   <!--Parte dos incones-->
