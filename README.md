@@ -3,7 +3,7 @@
 - 👨‍💻 I am studying higher education in Systems Analysis and Development at UNIP;
 - ⏳ I am currently doing an internship at [MW Online](https://mwonline.com.br);
 - 🌱 Currently I am a Systems Development technician;
-- ⚡ Curiosity: focus a lot on the back-end. 
+- ⚡ Curiosity: focus a lot on the back-end and I'm dating Beatriz. 
 - 🎒 Main Tools: Visual Studio Code, Apache NetBeans, Android Studio, MySQL and GitHub;
 - 🙋‍♂️ Social Networks: [Portfolio Website](http://lrvweb.com.br/) and [Linkedin](https://www.linkedin.com/in/lucas-vacari-80139a228/);
 
@@ -35,7 +35,6 @@
   
   <!--Parte dos incones com links-->
 <div> 
-  <a href="https://www.instagram.com/lucas_vacarii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasrvacari99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-vacari-80139a228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/BrookSK" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
