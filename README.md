@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas Vacari 👋
 
 - 👨‍💻 I am studying higher education in Systems Analysis and Development at UNIP;
-- ⏳ I am currently doing an internship at [MW Online](https://mwonline.com.br);
+- ⏳ Working as a MEI and available for freelance;
 - 🌱 Currently I am a Systems Development technician;
 - ⚡ Curiosity: focus a lot on the back-end and I'm dating Beatriz. 
 - 🎒 Main Tools: Visual Studio Code, Apache NetBeans, Android Studio, MySQL and GitHub;
