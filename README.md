@@ -5,7 +5,7 @@
 - 🌱 Currently I am a Systems Development technician;
 - ⚡ Curiosity: focus a lot on the back-end and I'm dating Beatriz. 
 - 🎒 Main Tools: Visual Studio Code, Apache NetBeans, Android Studio, MySQL and GitHub;
-- 🙋‍♂️ Social Networks: [Portfolio Website](http://lrvweb.com.br/) and [Linkedin](https://www.linkedin.com/in/lucas-vacari/);
+- 🙋‍♂️ Social Networks: [Portfolio Website](http://lucas.lrvweb.com.br/) and [Linkedin](https://www.linkedin.com/in/lucas-vacari/);
 
 <!--Parte dos quadros-->
 <div>
