@@ -1,45 +1,120 @@
-### Hi there, I'm Lucas Vacari 👋
+<h1 align="center">Hi 👋, I'm Lucas Vacari</h1>
 
-- 👨‍💻 I am studying higher education in Systems Analysis and Development at UNIP;
-- ⏳ Working as a MEI and available for freelance;
-- 🌱 Currently I am a Systems Development technician;
-- ⚡ Curiosity: focus a lot on the back-end and I'm dating Beatriz. 
-- 🎒 Main Tools: Visual Studio Code, Apache NetBeans, Android Studio, MySQL and GitHub;
-- 🙋‍♂️ Social Networks: [Portfolio Website](http://lucas.lrvweb.com.br/) and [Linkedin](https://www.linkedin.com/in/lucas-vacari/);
+<h3 align="center">
+Full Stack Developer • PHP • WordPress • SaaS Systems • Web Hosting
+</h3>
 
-<!--Parte dos quadros-->
-<div>
-  <a href="https://github.com/BrookSK">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrookSK&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrookSK&layout=compact&theme=transparent"/>
-</div>
-  
-  <!--Parte dos incones-->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-cPlusPlus" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Lucas-csharp" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Lucas-php" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=125&color=currentColor">
-  <img align="center" alt="Lucas-wordpress" height="30" width="40" src="https://icongr.am/devicon/wordpress-original.svg?size=125&color=currentColor">
-  <img align="center" alt="Lucas-Linux" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
-  <img align="center" alt="Lucas-Windows" height="30" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Lucas-Android" height="30" width="40" src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Lucas-GitHub" height="30" width="40" src="https://icongr.am/octicons/mark-github.svg?size=128&color=ffffff">
-</div>
-  
-  ##
-  
-  <!--Parte dos incones com links-->
-<div> 
-  <a href = "mailto:lucasrvacari99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-vacari" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/BrookSK" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-</div>
-  <a href="https://steamcommunity.com/id/lucasrvacari99men/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  <a href="https://steamcommunity.com/id/lucasrvacari99men/" target="_blank"><img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" target="_blank"></a> 
-  <a href="https://open.spotify.com/user/31dn3nbh6vgbxhbwrwscblecdkh4" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+<p align="center">
+I develop websites, e-commerce platforms, custom systems and automation solutions through LRV Web.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=BrookSK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💼 Founder & Developer at LRV Web
+- 🌐 Specialized in websites, e-commerce and custom web systems
+- ⚙️ Focused on PHP, WordPress, MySQL and Server Management
+- 🤖 Building automation and SaaS solutions
+- 📚 Studying Systems Analysis and Development at UNIP
+- 🔥 Passionate about APIs, integrations and scalable systems
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+### CMS & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white">
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrookSK&show_icons=true&theme=transparent&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrookSK&layout=compact&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrookSK&theme=transparent" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🌐 LRV Web
+Development of websites, e-commerce platforms, hosting solutions and custom systems for businesses.
+
+### 🤖 Connecta LRV
+WhatsApp automation platform focused on business integration and process optimization.
+
+### 📅 LRV Agenda
+Online scheduling SaaS integrated with Google Calendar and WhatsApp.
+
+### ✈️ Tourism & Booking Systems
+Development of booking systems, payment integrations and travel management platforms.
+
+---
+
+## 📫 Contact Me
+
+<p>
+<a href="mailto:lucasrvacari99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/lucas-vacari/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="http://lucas.lrvweb.com.br/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white">
+</a>
+
+<a href="https://lrvweb.com.br">
+<img src="https://img.shields.io/badge/LRV_Web-0066FF?style=for-the-badge">
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Turning ideas into scalable web solutions."
+
 </div>
