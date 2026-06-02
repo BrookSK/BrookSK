@@ -71,11 +71,17 @@ Building websites, e-commerce platforms, custom systems, automations and hosting
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrookSK&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrookSK&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrookSK&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrookSK&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrookSK&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrookSK&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrookSK&theme=github_dark&utcOffset=-3" />
 </p>
 
 ---
