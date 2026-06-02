@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lucas Vacari</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Founder+of+LRV+Web;PHP+%7C+WordPress+%7C+MySQL;Server+Management+%26+Automation;Building+Web+Solutions+Since+2020" />
+</p>
+
 <h3 align="center">
-Full Stack Developer • PHP • WordPress • SaaS Systems • Web Hosting
+Full Stack Developer | PHP | WordPress | SaaS | Server Management
 </h3>
 
 <p align="center">
-I develop websites, e-commerce platforms, custom systems and automation solutions through LRV Web.
+Building websites, e-commerce platforms, custom systems, automations and hosting solutions through LRV Web.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=BrookSK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BrookSK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -17,11 +21,12 @@ I develop websites, e-commerce platforms, custom systems and automation solution
 ## 🚀 About Me
 
 - 💼 Founder & Developer at LRV Web
-- 🌐 Specialized in websites, e-commerce and custom web systems
+- 🌐 Specialized in websites, e-commerce and custom systems
 - ⚙️ Focused on PHP, WordPress, MySQL and Server Management
 - 🤖 Building automation and SaaS solutions
+- 🔗 Working with APIs, integrations and process automation
 - 📚 Studying Systems Analysis and Development at UNIP
-- 🔥 Passionate about APIs, integrations and scalable systems
+- 🚀 Passionate about scalable web solutions
 
 ---
 
@@ -34,6 +39,7 @@ I develop websites, e-commerce platforms, custom systems and automation solution
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ### Frontend
@@ -65,12 +71,11 @@ I develop websites, e-commerce platforms, custom systems and automation solution
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrookSK&show_icons=true&theme=transparent&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrookSK&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrookSK&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrookSK&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrookSK&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -86,12 +91,17 @@ WhatsApp automation platform focused on business integration and process optimiz
 ### 📅 LRV Agenda
 Online scheduling SaaS integrated with Google Calendar and WhatsApp.
 
-### ✈️ Tourism & Booking Systems
-Development of booking systems, payment integrations and travel management platforms.
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrookSK&theme=github_dark" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 <p>
 <a href="mailto:lucasrvacari99@gmail.com">
@@ -109,6 +119,14 @@ Development of booking systems, payment integrations and travel management platf
 <a href="https://lrvweb.com.br">
 <img src="https://img.shields.io/badge/LRV_Web-0066FF?style=for-the-badge">
 </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrookSK/BrookSK/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
